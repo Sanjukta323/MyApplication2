@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Toasty.simpleToast(this,"Hello Toast");
+        Toasty.simpleToast(this,"Hello modified Toast");
     }
 
 
